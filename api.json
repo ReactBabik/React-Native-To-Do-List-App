@@ -1,0 +1,30 @@
+{
+  "title": "Instagram Feed",
+  "description": "Fetch remote data from Feed",
+  "feed": [
+    {
+      "id": "1",
+      "userName": "Babik Ayaz",
+      "imgUrl": "https://picsum.photos/1920/1080",
+      "likeCount": "101",
+      "commentCount": "20",
+      "text": "Cyka Blyct"
+    },
+    {
+      "id": "2",
+      "userName": "John Daytona",
+      "imgUrl": "https://picsum.photos/420",
+      "likeCount": "111",
+      "commentCount": "10",
+      "text": "Cyka prrrr Blyct"
+    },
+    {
+      "id": "3",
+      "userName": "Grant Daytona",
+      "imgUrl": "https://picsum.photos/421",
+      "likeCount": "1",
+      "commentCount": "60",
+      "text": "SKradta duuuuu Blyct"
+    }
+  ]
+}
